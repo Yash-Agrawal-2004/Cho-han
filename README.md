@@ -1,4 +1,4 @@
-# Cho-han
+# Cho-han game using pytho and tkinter gui
 from tkinter import *
 from PIL import *
 
