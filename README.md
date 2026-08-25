@@ -72,3 +72,25 @@ Cho-han/
 │
 ├── requirements.txt
 └── README.md
+```
+---
+
+## ⚙️ Requirements
+
+- Python 3.10 or newer
+- Pillow
+- Tkinter
+
+> **Note:** Tkinter is included with standard Python installations on Windows.
+
+---
+
+## 🚀 Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Yash-Agrawal-2004/Cho-han.git
+```
+
+
