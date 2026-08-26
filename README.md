@@ -265,19 +265,37 @@ The previous game's widgets and results are cleared before the new game begins.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-Screenshots of the game can be added here.
+### Main Screen
 
-Example:
+The main screen of the Cho-Han game, from where the player can start a new game.
 
-```text
-Add screenshots of:
-- Main screen
-- Round screen
-- Game Over screen
-- Winner screen
-```
+![Main Screen](screenshots/main_screen.png)
+
+### Round Selection
+
+The player selects the number of rounds they want to play before beginning the game.
+
+![Round Selection](screenshots/Selection_round.PNG)
+
+### Round Screen
+
+During each round, the player selects either **Cho** or **Han**. The screen displays the current scores, player and bot choices, and the result of the dice sum.
+
+![Round Screen](screenshots/Round_screen.PNG)
+
+### Game Over Screen
+
+After all selected rounds have been completed, the final scores are displayed along with the result of the last round. The player can then proceed to view the winner.
+
+![Game Over Screen](screenshots/Game_Over_screen.PNG)
+
+### Winner Screen
+
+The winner of the game is displayed based on the final scores. The player can choose **Play Again** to start a new game or **Exit** to close the application.
+
+![Winner Screen](screenshots/Winner_screen.PNG)
 
 ---
 
